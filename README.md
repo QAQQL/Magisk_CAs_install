@@ -2,6 +2,8 @@
 
 pem证书转.0
 
+https://slproweb.com/products/Win32OpenSSL.html
+
 ```shell
 # openssl version
 # OpenSSL 1.1.1s  1 Nov 2022
