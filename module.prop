@@ -1,6 +1,6 @@
-id=casinstall
-name=CAs install
-version=20240220
-versionCode=1
+id=certs_install
+name=Certificates Install
+version=v1.0
+versionCode=1000
 author=QL
 description=一键安装证书到系统
